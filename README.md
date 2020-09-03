@@ -1,2 +1,3 @@
-# nyaa_virus
-Use bat to exe converter to compile.
+# kyaa
+### Just plug in something.
+Use bat to exe converter (or something idk) to compile.
